@@ -14,6 +14,9 @@ Based on the attack outlined by Fail0verflow https://fail0verflow.com/blog/2018/
 ***Glitching Pinout***
 ![SYSCON_PINOUT](syscon_glitcher_pinout.png)
 
+***Vita RL78 Pinout***
+![VITA_PINOUT](vita_pinout.png)
+
 ## Credits:
 - Fail0verflow for the initial Writeup on the attack.
 - droogie for early syscon investigations.
