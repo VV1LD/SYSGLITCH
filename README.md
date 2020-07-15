@@ -18,4 +18,6 @@ Based on the attack outlined by Fail0verflow https://fail0verflow.com/blog/2018/
 - Fail0verflow for the initial Writeup on the attack.
 - droogie for early syscon investigations.
 - juansbeck for his findings on identifying the chip and pinout. 
-- Zecoxao and M4j0r for their support in all syscon related work.
+- Zecoxao, M4j0r, and SSL for their support in all syscon related work.
+
+![HELL](hell.jpg)

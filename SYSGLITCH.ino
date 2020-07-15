@@ -10,7 +10,7 @@
 * ~ Fail0verflow for the initial Writeup on the attack.
 * ~ droogie for early syscon investigations.
 * ~ juansbeck for his early findings on identifying the chip and pinout. 
-* ~ Zecoxao and M4j0r for their support in all syscon related work.
+* ~ Zecoxao, M4j0r, and SSL for their support in all syscon related work.
 *****************************************************************************************/
 
 //#define VITA_MODE // uncomment to use vita rl78 passcode
