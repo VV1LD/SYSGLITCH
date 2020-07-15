@@ -11,10 +11,12 @@ Based on the attack outlined by Fail0verflow https://fail0verflow.com/blog/2018/
 - An RL78 with version 3.03 of the OCD rom
 - A small diode and ~4K ohm resistor for the RX line pulldown(needed to stabilise signal on syscon TOOL0)
 
-***Glitching Pinout***
+## Glitching Pinout
 ![SYSCON_PINOUT](syscon_glitcher_pinout.png)
 
-***Vita RL78 Pinout***
+
+## Vita RL78 Pinout
+
 ![VITA_PINOUT](vita_pinout.png)
 
 ## Credits:
