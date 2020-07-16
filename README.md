@@ -7,7 +7,7 @@ Based on the attack outlined by Fail0verflow https://fail0verflow.com/blog/2018/
 
 ## Setup
 - A Teensy 4.0 or Teesny 2.0++ and the Arduino IDE
-*If using the 2.0++ make sure it is fitted with a 3.3v regulator as instructed at https://www.pjrc.com/teensy/3volt.html
+- *If using the 2.0++ make sure it is fitted with a 3.3v regulator as instructed at https://www.pjrc.com/teensy/3volt.html
 - A usb serial cable wired to a PC, capturing raw data on RX with Realterm https://sourceforge.net/projects/realterm/
 - An RL78 with version 3.03 of the OCD rom
 - A small diode and ~4K ohm resistor for the RX line pulldown(needed to stabilise signal on syscon TOOL0)
